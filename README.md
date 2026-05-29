@@ -17,14 +17,17 @@ My expertise in Data Analysis and Data Science includes:
 
 <br>**🌟 Projects**<br>
 <br>One of my notable projects involved collaborating with a team to develop recommendation systems. We used collaborative algorithms and neural networks to develop the algorithm. Feel free to explore my Github for a deeper dive into this project and others.
-<br> `*Google Appscript Projects:*`  
-  <br>[Leads Management System](https://github.com/sha-ddie/Leads-Pipeline).<br>
 <br> `*Python Projects:*`  
-  <br>[Restaurant Recommendation System](https://github.com/sha-ddie/Restaurant-Recommender-System).
-  <br> [Churning Rate Prediction](https://github.com/u-mar/Churn-Prediction)
-  <br> [Real Estate Price Prediction](https://github.com/sha-ddie/Real-Estate-Analysis-Price-Prediction.).<br>
+  <br>[Operations Performance Dashboard - 2026](https://github.com/sha-ddie/Operations-Dashboard).
+  <br>[Restaurant Recommendation System - 2023](https://github.com/sha-ddie/Restaurant-Recommender-System).
+<br> `*Google Appscript Projects:*`  
+  <br>[Leads Management System - 2025](https://github.com/sha-ddie/Leads-Pipeline).<br>
 <br> `*R Projects:*` 
-  <br> [Jumia Web Dashboard](https://github.com/sha-ddie/Jumia-Web-Scraping-RStudio)<br>
+  <br> [Jumia Web-Scraping Dashboard -2024](https://github.com/sha-ddie/Jumia-Web-Scraping-RStudio)<br>
+<br> `*Other Projects:*`  
+  <br> [Churning Rate Prediction - 2023](https://github.com/u-mar/Churn-Prediction)
+  <br> [Real Estate Price Prediction - 2023](https://github.com/sha-ddie/Real-Estate-Analysis-Price-Prediction.).<br>
+
 
 <br>**📫 Let's Connect**<br><br>I'm always eager to connect with fellow data enthusiasts, collaborate on projects, and exchange ideas. Feel free to reach out to me via my [LinkedIn](https://www.linkedin.com/in/mulei-mutuku-377699215/).<br>
 
