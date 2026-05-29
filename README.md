@@ -15,17 +15,18 @@ My expertise in Data Analysis and Data Science includes:
 - **Tableau & Power BI:** Creating interactive dashboards and visualizations for stakeholders to derive actionable insights.  
 
 
-<br>**🌟 Projects**<br>
+<br>**🌟🌟🌟 Projects**<br>
 <br>One of my notable projects involved collaborating with a team to develop recommendation systems. We used collaborative algorithms and neural networks to develop the algorithm. Feel free to explore my Github for a deeper dive into this project and others.
-<br> `*Python Projects:*`  
+<br> `Python Projects:`  
   <br>[Operations Performance Dashboard - 2026](https://github.com/sha-ddie/Operations-Dashboard).
   <br>[Restaurant Recommendation System - 2023](https://github.com/sha-ddie/Restaurant-Recommender-System).
-<br> `*Google Appscript Projects:*`  
+  <br>[Churning Rate Prediction - 2023](https://github.com/u-mar/Churn-Prediction)
+  <br>
+<br> `Google Appscript Projects:`  
   <br>[Leads Management System - 2025](https://github.com/sha-ddie/Leads-Pipeline).<br>
-<br> `*R Projects:*` 
+<br> `R Projects:` 
   <br> [Jumia Web-Scraping Dashboard -2024](https://github.com/sha-ddie/Jumia-Web-Scraping-RStudio)<br>
-<br> `*Other Projects:*`  
-  <br> [Churning Rate Prediction - 2023](https://github.com/u-mar/Churn-Prediction)
+<br> `Other Projects:`  
   <br> [Real Estate Price Prediction - 2023](https://github.com/sha-ddie/Real-Estate-Analysis-Price-Prediction.).<br>
 
 
